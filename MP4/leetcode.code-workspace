@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../leetcode"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../CS 361"
+		},
+		{
+			"path": "../../sp23-cs411-cmp-team001-dreamToStream-main"
+		},
+		{
+			"path": "../../group-project-team45"
+		}
+	],
+	"settings": {
+		"[python]": {
+			"editor.defaultFormatter": "ms-python.black-formatter"
+		},
+		"python.formatting.provider": "none"
+	}
+}
